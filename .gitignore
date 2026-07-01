@@ -1,0 +1,28 @@
+# Node / Frontend
+node_modules/
+dist/
+build/
+*.log
+
+# Java / Spring Boot Backend
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Python / ML Service
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
